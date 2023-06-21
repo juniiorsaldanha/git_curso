@@ -1,5 +1,9 @@
 alo! aloaksadsa
 
 nova funcionalide() {
+
+}
+
+funcao2 {
     
 }
